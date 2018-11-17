@@ -1,5 +1,5 @@
 # Reconhecimento web
-Script desenvolvido em bash script, utilizado para identificar os diretorios e arquivos de um host, por meio de wordlist.
+Script desenvolvido em bash script, utilizado para identificar os diretórios e arquivos de um host, através de wordlist.
 
 <b>Execução:</b>
 ./descobredns.sh dominio.com.br
